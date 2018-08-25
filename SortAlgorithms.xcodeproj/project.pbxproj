@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA5721562131FE8200A5B0FF /* Algorithms.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5721552131FE8200A5B0FF /* Algorithms.swift */; };
 		CAF310132131D586006C98FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF310122131D586006C98FB /* AppDelegate.swift */; };
 		CAF310152131D586006C98FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF310142131D586006C98FB /* ViewController.swift */; };
 		CAF310182131D586006C98FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAF310162131D586006C98FB /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA5721552131FE8200A5B0FF /* Algorithms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithms.swift; sourceTree = "<group>"; };
 		CAF3100F2131D586006C98FB /* SortAlgorithms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SortAlgorithms.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAF310122131D586006C98FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAF310142131D586006C98FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				CAF310192131D589006C98FB /* Assets.xcassets */,
 				CAF3101B2131D589006C98FB /* LaunchScreen.storyboard */,
 				CAF3101E2131D589006C98FB /* Info.plist */,
+				CA5721552131FE8200A5B0FF /* Algorithms.swift */,
 			);
 			path = SortAlgorithms;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAF310152131D586006C98FB /* ViewController.swift in Sources */,
+				CA5721562131FE8200A5B0FF /* Algorithms.swift in Sources */,
 				CAF310132131D586006C98FB /* AppDelegate.swift in Sources */,
 				CAF310292131ECB6006C98FB /* SortViewController.swift in Sources */,
 			);
