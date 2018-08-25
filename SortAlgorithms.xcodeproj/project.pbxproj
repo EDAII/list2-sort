@@ -12,6 +12,7 @@
 		CAF310182131D586006C98FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAF310162131D586006C98FB /* Main.storyboard */; };
 		CAF3101A2131D589006C98FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAF310192131D589006C98FB /* Assets.xcassets */; };
 		CAF3101D2131D589006C98FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAF3101B2131D589006C98FB /* LaunchScreen.storyboard */; };
+		CAF310292131ECB6006C98FB /* SortViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF310282131ECB6006C98FB /* SortViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CAF310192131D589006C98FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAF3101C2131D589006C98FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CAF3101E2131D589006C98FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAF310282131ECB6006C98FB /* SortViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SortViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		CAF310112131D586006C98FB /* SortAlgorithms */ = {
 			isa = PBXGroup;
 			children = (
+				CAF310282131ECB6006C98FB /* SortViewController.swift */,
 				CAF310122131D586006C98FB /* AppDelegate.swift */,
 				CAF310142131D586006C98FB /* ViewController.swift */,
 				CAF310162131D586006C98FB /* Main.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				CAF310152131D586006C98FB /* ViewController.swift in Sources */,
 				CAF310132131D586006C98FB /* AppDelegate.swift in Sources */,
+				CAF310292131ECB6006C98FB /* SortViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
